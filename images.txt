@@ -11,4 +11,3 @@ node:16-alpine
 postgis/postgis:latest
 caddy
 timescale/timescaledb-ha:pg14-latest
-docker.io
