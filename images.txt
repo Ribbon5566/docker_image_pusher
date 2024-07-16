@@ -7,3 +7,4 @@ nginx
 redis
 rabbitmq:management
 openjdk:11
+timescaledb-ha
