@@ -13,3 +13,6 @@ caddy
 timescale/timescaledb-ha:pg14-latest
 ubuntu:latest
 mysql:8.0
+openjdk:8
+openjdk:17
+mysql:5.7
