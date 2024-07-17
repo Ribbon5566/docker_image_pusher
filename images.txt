@@ -12,3 +12,4 @@ postgis/postgis:latest
 caddy
 timescale/timescaledb-ha:pg14-latest
 ubuntu:latest
+consul:latest
