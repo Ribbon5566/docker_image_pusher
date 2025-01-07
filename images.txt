@@ -17,4 +17,3 @@ openjdk:8
 openjdk:17
 mysql:5.7
 portainer/agent:latest
-mongo
