@@ -3,18 +3,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-nginx
-redis
-rabbitmq:management
-openjdk:11
-node:16-alpine
-postgis/postgis:latest
-caddy
-timescale/timescaledb-ha:pg14-latest
-ubuntu:latest
-mysql:8.0
-openjdk:8
-openjdk:17
-mysql:5.7
-portainer/agent:latest
 mongo
