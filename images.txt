@@ -3,5 +3,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-jenkins/jenkins:2.222.4-lts-jdk11
+redis
 
