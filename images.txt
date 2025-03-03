@@ -3,6 +3,6 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-redis
+timescale/timescaledb-ha:pg14.5-ts2.8.1-latest
 
 
