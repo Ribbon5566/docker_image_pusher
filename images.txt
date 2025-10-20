@@ -3,5 +3,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-timescale/timescaledb:latest-pg15
+eclipse-temurin:11-jre
 
