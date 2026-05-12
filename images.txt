@@ -3,4 +3,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-tdengine/tdengine:3.3.8.0
+tdengine/tdengine:3.4.1.6
