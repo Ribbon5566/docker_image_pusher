@@ -3,4 +3,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-pgvector/pgvector:pg17
+tdengine:3.3.6.13
+emqx:5.8.6
